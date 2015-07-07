@@ -1,0 +1,13 @@
+importFrom("graphics", "identify", "lines", "locator", "par", "plot", "points", "polygon", "segments", "symbols", "text", "title")
+importFrom("grDevices", "dev.off", "palette")
+importFrom("stats", "optim", "qchisq", "qnorm", "quantile", "rchisq", "rnorm")
+
+export(
+CookRLF.varobj,
+interact.varobj,
+PlotDiag.varobj,
+QQDecorr.varobj,
+QQVarcloud.varobj,
+varobj
+#p11,p12,p21,p22
+)

@@ -1,0 +1,11 @@
+CookRLF.varobj          Plot of Cook's Distances and Reduction Lack of
+                        Fit
+PlotDiag.varobj         Diagnostic Plots for Variograms
+QQDecorr.varobj         QQ-Plot of Decorrelated Residuals
+QQVarcloud.varobj       QQ-Plot of Variogram Cloud Entries
+interact.varobj         Interactive Identification of Points in a
+                        Variogram Diagnostics Plot
+tulln                   Data on Chlorid concentrations in the Südliche
+                        Tullnerfeld
+vardiag-internal        Internal vardiag functions
+varobj                  Function for variogram fitting
